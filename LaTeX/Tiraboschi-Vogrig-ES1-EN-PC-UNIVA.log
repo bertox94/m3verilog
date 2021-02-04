@@ -1,0 +1,278 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.3)  3 FEB 2021 15:12
+entering extended mode
+**./Tiraboschi-Vogrig-ES1-EN.tex
+(Tiraboschi-Vogrig-ES1-EN.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count185
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count186
+\leftroot@=\count187
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count188
+\DOTSCASE@=\count189
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count190
+\c@MaxMatrixCols=\count191
+\dotsspace@=\muskip16
+\c@parentequation=\count192
+\dspbrk@lvl=\count193
+\tag@help=\toks17
+\row@=\count194
+\column@=\count195
+\maxfields@=\count196
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count197
+\float@exts=\toks22
+\float@box=\box49
+\@float@everytoks=\toks23
+\@floatcapt=\box50
+)
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count198
+\l__pdf_internal_box=\box51
+) (Tiraboschi-Vogrig-ES1-EN.aux)
+\openout1 = `Tiraboschi-Vogrig-ES1-EN.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen150
+\scratchbox=\box52
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen151
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks25
+)
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
+
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+
+
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 12
+.
+
+(C:\Users\aavog\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+[1
+
+{C:/Users/aavog/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(Tiraboschi-Vogrig-ES1-EN.toc)
+\tf@toc=\write3
+\openout3 = `Tiraboschi-Vogrig-ES1-EN.toc'.
+
+ [2
+
+]
+<./images//AXI_UART_Module.png, id=11, 430.60875pt x 191.9672pt>
+File: ./images//AXI_UART_Module.png Graphic file (type png)
+<use ./images//AXI_UART_Module.png>
+Package pdftex.def Info: ./images//AXI_UART_Module.png  used on input line 27.
+(pdftex.def)             Requested size: 366.01915pt x 163.17288pt.
+ [1
+
+] [2 <./images//AXI_UART_Module.png>]
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 54--62
+
+ []
+
+[4]
+<./images//diagram 1.png, id=27, 897.3525pt x 183.68625pt>
+File: ./images//diagram 1.png Graphic file (type png)
+<use ./images//diagram 1.png>
+Package pdftex.def Info: ./images//diagram 1.png  used on input line 63.
+(pdftex.def)             Requested size: 314.07808pt x 64.29114pt.
+ [5 <./images//diagram 1.png>]
+<./images//module schem.png, id=33, 593.8185pt x 476.982pt>
+File: ./images//module schem.png Graphic file (type png)
+<use ./images//module schem.png>
+Package pdftex.def Info: ./images//module schem.png  used on input line 69.
+(pdftex.def)             Requested size: 296.90852pt x 238.4904pt.
+<./images//p1.png, id=34, 246.32025pt x 31.317pt>
+File: ./images//p1.png Graphic file (type png)
+<use ./images//p1.png>
+Package pdftex.def Info: ./images//p1.png  used on input line 78.
+(pdftex.def)             Requested size: 246.31964pt x 31.31691pt.
+<./images//p2.png, id=35, 386.6445pt x 34.9305pt>
+File: ./images//p2.png Graphic file (type png)
+<use ./images//p2.png>
+Package pdftex.def Info: ./images//p2.png  used on input line 81.
+(pdftex.def)             Requested size: 386.64355pt x 34.9304pt.
+ [6 <./images//module schem.png> <./images//p1.png>]
+<./images//1 error.png, id=41, 610.07925pt x 293.29575pt>
+File: ./images//1 error.png Graphic file (type png)
+<use ./images//1 error.png>
+Package pdftex.def Info: ./images//1 error.png  used on input line 102.
+(pdftex.def)             Requested size: 427.05257pt x 205.3056pt.
+
+Overfull \hbox (37.05257pt too wide) in paragraph at lines 102--103
+[][] 
+ []
+
+<./images//2 errors.png, id=42, 613.69275pt x 296.90926pt>
+File: ./images//2 errors.png Graphic file (type png)
+<use ./images//2 errors.png>
+Package pdftex.def Info: ./images//2 errors.png  used on input line 106.
+(pdftex.def)             Requested size: 429.582pt x 207.83505pt.
+
+Overfull \hbox (39.582pt too wide) in paragraph at lines 106--107
+[][] 
+ []
+
+[7 <./images//p2.png>] [8 <./images//2 errors.png> <./images//1 error.png>]
+(Tiraboschi-Vogrig-ES1-EN.aux) ) 
+Here is how much of TeX's memory you used:
+ 2499 strings out of 479618
+ 34664 string characters out of 2865027
+ 311982 words of memory out of 3000000
+ 19652 multiletter control sequences out of 15000+200000
+ 413520 words of font info for 68 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,7n,74p,1116b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\aavog\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/aavog/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aavog/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/aavog/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aavog
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Tiraboschi-Vogrig-ES1-EN.pdf (10 pages, 309726 bytes).
+PDF statistics:
+ 71 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
