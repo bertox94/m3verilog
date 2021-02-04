@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# 
+# Start of session at: Fri Dec  4 10:43:22 2020
+# Process ID: 1308
+# Current directory: C:/AT426-BU-98000-r0p1-00rel0/software/m3_for_arty_a7/sdk_workspace/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/AT426-BU-98000-r0p1-00rel0/software/m3_for_arty_a7/sdk_workspace/webtalk/webtalk.log
+# Journal file: C:/AT426-BU-98000-r0p1-00rel0/software/m3_for_arty_a7/sdk_workspace/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
