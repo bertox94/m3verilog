@@ -3,7 +3,7 @@ This repo contains all the material about the project of the Embedded Systems co
 
 **Please, use the release menu to download our latest version of the project**
 
-Given a task and a simulated environment on Vivado 2019.1 of Cortex M3 provided by ARM, the project produce:
+Given a task and a simulated environment on Vivado 2019.1 of Cortex M3 provided by ARM, the focus is to produce:
 * [Source file](https://github.com/bertox94/m3verilog/blob/main/sources/source.sv)
 * [Testbench](https://github.com/bertox94/m3verilog/blob/main/sources/tb_m3_for_arty.v)
 * [Documentation](https://github.com/bertox94/m3verilog/blob/main/Tiraboschi-Vogrig-ES1-EN.pdf)
